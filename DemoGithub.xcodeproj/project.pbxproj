@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EC88C0FE2A22519D00C834C3 /* DemoGithubApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC88C0FD2A22519D00C834C3 /* DemoGithubApp.swift */; };
-		EC88C1002A22519D00C834C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC88C0FF2A22519D00C834C3 /* ContentView.swift */; };
+		EC88C1002A22519D00C834C3 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC88C0FF2A22519D00C834C3 /* MainView.swift */; };
 		EC88C1022A22519E00C834C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC88C1012A22519E00C834C3 /* Assets.xcassets */; };
 		EC88C1052A22519E00C834C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC88C1042A22519E00C834C3 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		EC88C0FA2A22519D00C834C3 /* DemoGithub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoGithub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC88C0FD2A22519D00C834C3 /* DemoGithubApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoGithubApp.swift; sourceTree = "<group>"; };
-		EC88C0FF2A22519D00C834C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		EC88C0FF2A22519D00C834C3 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		EC88C1012A22519E00C834C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC88C1042A22519E00C834C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				EC88C0FD2A22519D00C834C3 /* DemoGithubApp.swift */,
-				EC88C0FF2A22519D00C834C3 /* ContentView.swift */,
+				EC88C0FF2A22519D00C834C3 /* MainView.swift */,
 				EC88C1012A22519E00C834C3 /* Assets.xcassets */,
 				EC88C1032A22519E00C834C3 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EC88C1002A22519D00C834C3 /* ContentView.swift in Sources */,
+				EC88C1002A22519D00C834C3 /* MainView.swift in Sources */,
 				EC88C0FE2A22519D00C834C3 /* DemoGithubApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

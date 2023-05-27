@@ -12,6 +12,7 @@
 		EC88C1022A22519E00C834C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC88C1012A22519E00C834C3 /* Assets.xcassets */; };
 		EC88C1052A22519E00C834C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC88C1042A22519E00C834C3 /* Preview Assets.xcassets */; };
 		EC88C10C2A2252A700C834C3 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC88C10B2A2252A700C834C3 /* SecondView.swift */; };
+		EC944D312A225A8B00345626 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC944D302A225A8B00345626 /* ThirdView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		EC88C1012A22519E00C834C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC88C1042A22519E00C834C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EC88C10B2A2252A700C834C3 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		EC944D302A225A8B00345626 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				EC88C0FD2A22519D00C834C3 /* DemoGithubApp.swift */,
 				EC88C0FF2A22519D00C834C3 /* MainView.swift */,
 				EC88C10B2A2252A700C834C3 /* SecondView.swift */,
+				EC944D302A225A8B00345626 /* ThirdView.swift */,
 				EC88C1012A22519E00C834C3 /* Assets.xcassets */,
 				EC88C1032A22519E00C834C3 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC944D312A225A8B00345626 /* ThirdView.swift in Sources */,
 				EC88C10C2A2252A700C834C3 /* SecondView.swift in Sources */,
 				EC88C1002A22519D00C834C3 /* MainView.swift in Sources */,
 				EC88C0FE2A22519D00C834C3 /* DemoGithubApp.swift in Sources */,
